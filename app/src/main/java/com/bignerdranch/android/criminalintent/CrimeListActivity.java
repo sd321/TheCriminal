@@ -10,4 +10,6 @@ public class CrimeListActivity extends SingleFragmentActivity {
     protected Fragment createFragment() {
         return new CrimeListFragment();
     }
+
+    //just checking if my vcs is morking or not  so this is only a random comment
 }
