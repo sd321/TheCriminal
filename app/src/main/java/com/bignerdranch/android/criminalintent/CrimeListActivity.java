@@ -11,5 +11,5 @@ public class CrimeListActivity extends SingleFragmentActivity {
         return new CrimeListFragment();
     }
 
-    //just checking if my vcs is morking or not  so this is only a random comment
+    //just checking if my vcs is working or not  so this is only a random comment
 }
